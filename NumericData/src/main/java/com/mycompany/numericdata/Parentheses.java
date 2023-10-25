@@ -9,5 +9,5 @@ package com.mycompany.numericdata;
  * @author DevTardeA
  */
 public class Parentheses {
-    int 
+    
 }
